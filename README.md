@@ -1,10 +1,9 @@
-# AI-Carla-Python
+## Getting Started
+Project with tensorflow, opencv in python for a car simulator to learn to drive with AI (Reinforcement Learning).
 
 
-## Para poder utilizar este proyecto debe bajarse Carla Simulator
-Carla és un simulador para entrenar tu IA de autoconducción. Estamos utilizando la última versión ila versión 3.7 de python. 
+## Usage
+CARLA is a simulator to train your self-driving AI.
 
 
-Para bajar Carla 0.9.9 metete en el siguiente link : https://github.com/carla-simulator/carla/releases/tag/0.9.9
-
-- CARLA_0.9.99.zip
+To download CARLA 0.9.9 go to the following link: https://github.com/carla-simulator/carla/releases/tag/0.9.9
